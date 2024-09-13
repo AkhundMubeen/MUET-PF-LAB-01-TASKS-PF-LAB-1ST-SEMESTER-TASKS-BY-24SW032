@@ -1,4 +1,4 @@
-/*   Task # 01
+/*   PF Lab Task # 01
      Write a C++ program to print the following lines:
 	 You are 10 years old.
 	 You are too young to play the game (Hint: use an int variable for age). */
